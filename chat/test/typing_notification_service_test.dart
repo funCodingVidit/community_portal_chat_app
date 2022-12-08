@@ -1,6 +1,6 @@
 import 'package:chat/src/models/typing_event.dart';
 import 'package:chat/src/models/user.dart';
-import 'package:chat/src/services/receipt/typing/typing_notification_service_impl.dart';
+import 'package:chat/src/services/typing/typing_notification_service_impl.dart';
 import 'package:flutter_test/flutter_test.dart';
 import 'package:rethink_db_ns/rethink_db_ns.dart';
 
